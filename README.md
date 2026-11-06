@@ -4,7 +4,7 @@
 
 ## 在线阅读
 
-GitHub Pages 启用后，可在仓库 **Settings → Pages** 查看公开网址。页面从仓库根目录的 `index.html` 发布。
+[打开 GitHub Pages 在线版](https://xzhdsb.github.io/first-times-guide/)。页面从仓库 `main` 分支根目录的 `index.html` 发布。
 
 ## 下载与离线阅读
 
